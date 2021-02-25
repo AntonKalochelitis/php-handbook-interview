@@ -9,6 +9,8 @@
 ## Кто желает помочь проекту. Donate:
  Bitcoin (BTC): 1D7arN28MC9H3PKowUFwasEJdz8uZsZT8H
  
+ Bitcoin Cash (BCH): 12jTGs7Q2Wv4YX1DLCVpYNrW5DGaDwfDXD
+ 
  Ethereum (ETH): 0x60d5080ec4aa71950350faf20efdaefb46863e9f
  
  Ethereum Classic (ETC): 0xcecbab78227063b31c86276d3f53d2f12144da23
@@ -19,4 +21,4 @@
  
  Monero (XMR): 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS3DhYyqNEsWVHsban3
  
- Bitcoin Cash (BCH): 12jTGs7Q2Wv4YX1DLCVpYNrW5DGaDwfDXD
+ 
